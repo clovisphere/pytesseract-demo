@@ -22,8 +22,9 @@ $ cd myproject # this repo
 $ pipenv --python 3
 $ pipenv install
 $ pipenv shell
+$ python extractor.py paid --img example/invoice2.png
 ```
-![get help](example/how_to.png)
+![extract data](example/how_to.png)
 
 
 Enjoy :v::sunglasses:
