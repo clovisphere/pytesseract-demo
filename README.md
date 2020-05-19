@@ -1,7 +1,7 @@
 # Pytesseract Demo
 
 [Throwaway code](https://stackoverflow.com/questions/1373980/good-strategies-for-developing-throwaway-code) that shows how [pytesseract](https://pypi.org/project/pytesseract/) can be used
-to do intereting things with data:smiley:
+to do interesting things with data:smiley:
 
 ![get help](example/help.png)
 
